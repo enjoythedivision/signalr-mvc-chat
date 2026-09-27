@@ -96,3 +96,4 @@
 /Users/maria/Projects/signalr-mvc-chat/obj/Debug/net10.0/signalr-mvc-chat.pdb
 /Users/maria/Projects/signalr-mvc-chat/obj/Debug/net10.0/signalr-mvc-chat.genruntimeconfig.cache
 /Users/maria/Projects/signalr-mvc-chat/obj/Debug/net10.0/ref/signalr-mvc-chat.dll
+/Users/maria/Projects/signalr-mvc-chat/obj/Debug/net10.0/compressed/sjw5wrcgum-{0}-5ipweew5fc-5ipweew5fc.gz
