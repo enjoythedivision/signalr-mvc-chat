@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("signalr-mvc-chat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7bdde0e9d5f3572427d48332e0cbd7901101ae3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3a09d46943d72c424fc5e640d96c054dac5d516")]
 [assembly: System.Reflection.AssemblyProductAttribute("signalr-mvc-chat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("signalr-mvc-chat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
